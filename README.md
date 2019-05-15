@@ -7,10 +7,11 @@ These methods assume the complete neglect of differential overlap and the neglec
 The Windows program is released by the courtesy of Prof. S. Sahu, provides Fortran 90 implementation of CNDO/2 and INDO models.
 
 ### How to use
-1. Launch the Windows command prompt.
-2. Change the current working directory to the cindo.exe contained directory.
-3. Type "cindo" and press enter key to launch "cindo.exe".
-4. Follow the command line instructions and enter the proper values or characters.
+1. Download [cindo.zip](https://github.com/brhr-iwao/cindo_windows/releases/download/190515/cindo.zip) and unzip it.
+2. Launch the Windows command prompt.
+3. Change the current working directory to the cindo.exe contained directory.
+4. Type "cindo" and press enter key to launch "cindo.exe".
+5. Follow the command line instructions and enter the proper values or characters.
    You can abort the program anytime during the execution by pressing CTRL + C.
 
 ### How to compile from the source
